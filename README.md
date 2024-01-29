@@ -3,6 +3,9 @@
 build.bat
 
 
+#
+
+
 <pre>
 Trade bot with built-in indicators and ready to use strategies with their profit rates listed below
 
