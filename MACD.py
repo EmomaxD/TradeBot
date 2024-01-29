@@ -16,7 +16,7 @@ def MACDsignal(stock_symbol):
     macd_value = macd.macd()
     signal_line = macd.macd_signal()
 
-    # Print the last MACD and Signal line values
+    # Print the last MACD and Signal line values (currency is $)
     print(f"Last MACD value: {macd_value.iloc[-1]}")
     print(f"Last Signal line value: {signal_line.iloc[-1]}")
 
