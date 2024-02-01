@@ -1,5 +1,4 @@
 from MACD import MACDsignal
-from SMI import SMIsignal
 from TSI import TSIsignal
 from Fisher import Fishersignal
 from RSI import RSIsignal
